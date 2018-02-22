@@ -1,0 +1,32 @@
+body {
+    background-image:    url(assets/home-bear.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    /* background-position: center center;  */
+    /* position: absolute; */
+}
+
+.navibar {
+   margin: 10px;
+   padding: 0;
+   color: white;
+}
+
+.cta-holder {
+   width:160px;
+   margin: 0 auto;
+   position: relative;
+   border: 3px solid white;
+   border-radius: 3px;
+   /* position: absolute;
+   top: 50%; */
+}
+
+#cta {
+   width: 100%;
+}
+
+.music-button {
+   max-width: 50px;
+   max-height: 50px;
+}
